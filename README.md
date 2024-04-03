@@ -1,2 +1,1 @@
-# SIGHosp
-Sistema de Gestao Hospitalar
+# saturn
